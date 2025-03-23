@@ -23,3 +23,5 @@ Finally, the script iterates over all pairs, retrieves the optimized shipping qu
 This approach is widely used in supply chain management, logistics, and operations research to optimize transportation networks, reduce costs, and improve efficiency. By using linear programming, businesses can make data-driven decisions about how to distribute goods in the most cost-effective manner while meeting customer demand and respecting warehouse constraints.
 
 ##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3b90cf2a-ad2c-4c86-9db5-a99f9f0d56c6)
